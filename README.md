@@ -11,6 +11,6 @@
 | 7. [Проверка гипотез по увеличению выручки в интернет-магазине](https://github.com/ekaterina-singa/Practicum_projects/tree/main/test_hypotesis) |    Приоретизация гипотез, оценка результатов  А/В-теста    | A/B-тест, статистический тест, фреймворки RICE, ICE |       pandas, math, numpy, seaborn, matplotlib, scipy |
 | 8. [Анализ рынка общественного питания Москвы](https://github.com/ekaterina-singa/Practicum_projects/tree/main/moscow_rest) |     Исследование рынка общественного питания на открытых данных    | обработка данных, визуализация данных, создание презентаций | pandas, numpy, seaborn, matplotlib |
 | 9. [А/В-тестирование новой фичи для мобильного приложения](https://github.com/ekaterina-singa/Practicum_projects/tree/main/ab_test) |    Оценка результатов А/В-тестирования, принятие решения     |      A/B-тест, визуализация, статистический тест | pandas, math, numpy, seaborn, matplotlib, scipy |
-| 10. []() |        |        |       |
-| 11. []() |         |      |     |
+| 10. [Создание Дашборда для Яндекс.Дзен](https://github.com/ekaterina-singa/Practicum_projects/tree/main/dzen) |    Автоматизация сбора информации для севиса Яндекс.Дзен    |    дашборд, пайплайн, Tableau    |   pandas, sqlalchemy    |
+| 11. [Анализ данных фитнес-клуба на моделях машинного обучения](https://github.com/ekaterina-singa/Practicum_projects/tree/main/fitness) |    Прогнозирование оттока клиентов     |   KMeans, Machine Learning, дендрограмма, RandomForestClassifier, LogisticRegression   |   pandas, numpy, matplotleab, seaborn, scipy, sklearn   |
 | 12. []() |         |       |      |
