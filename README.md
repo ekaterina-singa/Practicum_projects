@@ -8,9 +8,9 @@
 | 4. [Исследование тарифов телеком компании](https://github.com/ekaterina-singa/Practicum_projects/tree/main/telecom) | Исследование тарифных планов с целью дальнейшей оптимизации и повышения дохода        |       обработка данных, histogram, boxplot, статистический тест |   pandas, numpy, matplotleab, seaborn, scipy |
 | 5. [Исследование компьютерных игр](https://github.com/ekaterina-singa/Practicum_projects/tree/main/games) | Исследование разных игровых платформ и закономерностей, определяющих успешность игры        |   обработка данных, histogram, boxplot, статистический тест, критерий Стьюдента, piechart | pandas, math, numpy, seaborn, matplotlib, scipy |
 | 6. [Маркетинговое исследование приложения Procrastinate Pro+](https://github.com/ekaterina-singa/Practicum_projects/tree/main/unit_economics ) |  Выявление причин плохой окупаемости рекламной кампании методами когортного анализа |    обработка данных, статистический тест, LTV, CAC, когортный анализ     |    pandas, numpy, seaborn, matplotlib, datetime    |
-| 7. [Проверка гипотез по увеличению выручки в интернет-магазине. А/В-тестирование](https://github.com/ekaterina-singa/Practicum_projects/tree/main/ab_test) |    Приоретизация гипотез, оценка результатов  А/В-теста    | A/B-тест, статистический тест, фреймворки RICE, ICE |       pandas, math, numpy, seaborn, matplotlib, scipy |
-| 8. []() |         |        ~~$1~~ |       ~~$1~~ |
-| 9. []() |         |        ~~$1~~ |       ~~$1~~ |
-| 10. []() |        |        ~~$1~~ |       ~~$1~~ |
-| 11. []() |         |        ~~$1~~ |       ~~$1~~ |
-| 12. []() |         |        ~~$1~~ |       ~~$1~~ |
+| 7. [Проверка гипотез по увеличению выручки в интернет-магазине](https://github.com/ekaterina-singa/Practicum_projects/tree/main/test_hypotesis) |    Приоретизация гипотез, оценка результатов  А/В-теста    | A/B-тест, статистический тест, фреймворки RICE, ICE |       pandas, math, numpy, seaborn, matplotlib, scipy |
+| 8. [Анализ рынка общественного питания Москвы](https://github.com/ekaterina-singa/Practicum_projects/tree/main/moscow_rest) |     Исследование рынка общественного питания на открытых данных    | обработка данных, визуализация данных, создание презентаций | pandas, numpy, seaborn, matplotlib |
+| 9. [А/В-тестирование новой фичи для мобильного приложения](https://github.com/ekaterina-singa/Practicum_projects/tree/main/ab_test) |    Оценка результатов А/В-тестирования, принятие решения     |      A/B-тест, визуализация, статистический тест | pandas, math, numpy, seaborn, matplotlib, scipy |
+| 10. []() |        |        |       |
+| 11. []() |         |      |     |
+| 12. []() |         |       |      |
