@@ -40,5 +40,5 @@
 ### Статус проекта:
 исследование продолжается
 
-[Дашборд Tableau](https://public.tableau.com/app/profile/ekaterina1585/viz/car_accidents_16732860717890/Dashboard1)
+[Дашборд Tableau](https://public.tableau.com/app/profile/ekaterina1585/viz/car_accidents_16732860717890/Dashboard1)  
 [Презентация](https://drive.google.com/file/d/1PV2eRSk3EoirXpXesNDx-Os11kWdl6PJ/view?usp=sharing)
